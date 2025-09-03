@@ -1,0 +1,8 @@
+{
+  "name": "apollo-talent-seeker",
+  "private": true,
+  "workspaces": ["apps/*", "services/*"],
+  "scripts": {
+    "test": "echo \"No tests\""
+  }
+}
